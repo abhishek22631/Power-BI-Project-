@@ -18,7 +18,7 @@ Dataset Description:
 
 1. Customer_Demographics.csv 
 Columns: Customer_ID, Age, Gender, Region, Income_Level, Membership_Since, Preferred_Channel (Store/Online)
-2 .Customer_Transactions.csv
+2. Customer_Transactions.csv
 Columns: Transaction_ID, Customer_ID, Store_ID, Product_Category (Groceries, Electronics, Apparel, Home & Living), Transaction_Date, Amount, Promotion_Applied (Yes/No)
 3. Store_Locations.csv
 Columns: Store_ID, Store_Type (Supercenter, Neighborhood Market, Sam’s Club, Online), Region, Opening_Year
