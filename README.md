@@ -113,6 +113,8 @@ Custom DAX measures and calculated columns were created to support these metrics
 
 **Abhishek Chakraborty**
 Aspiring Data Analyst | Power BI | SQL | Excel
+📧 Email: abhishekchakraborty22@yahoo.com
+🔗 GitHub: https://github.com/abhishek22631
 
 ---
 
